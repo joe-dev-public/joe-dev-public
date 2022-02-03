@@ -1,6 +1,6 @@
-## Hi, I'm Joe 👋🏻 (he/him or they/them)
+# Hi, I'm Joe 👋🏻 (he/him or they/them)
 
-### About me
+## About me
 
 I really enjoy making things and solving problems, mostly on computers ⌨️ (but not always 📐🛠️🪚).
 
@@ -12,9 +12,16 @@ Away from screens, I like walking and cycling 🏙️🌳, dancing in small dark
 
 I care about how technology can be used to have a positive social impact ⚖️, and I hope to work on projects that contribute to this.
 
-### Latest projects
+## Latest projects
 
-Check back here to see projects that I've been working on 😌
+<!-- Check back here to see projects that I've been working on 😌 -->
+
+### Founders and Coders
+
+| Project | Summary | Repo | Deployed |
+| :- | :- | :- | :- |
+| Agency site | First team project on the bootcamp | [Repo](https://github.com/joe-dev-public/fac-agency-website) | [Deployed](https://joe-dev-public.github.io/fac-agency-website/) |
+| Application site | Made as part of my application to FAC | [Repo](https://github.com/joe-dev-public/fac-application-website) | [Deployed](https://joe-dev-public.github.io/fac-application-website/) |
 
 <!--
 **joe-dev-public/joe-dev-public** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
