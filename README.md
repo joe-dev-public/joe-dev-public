@@ -23,6 +23,20 @@ I care about how technology can be used to have a positive social impact ⚖️,
 | Agency site | First team project on the bootcamp | [Repo](https://github.com/joe-dev-public/fac-agency-website) | [Deployed](https://joe-dev-public.github.io/fac-agency-website/) |
 | Application site | Made as part of my application to FAC | [Repo](https://github.com/joe-dev-public/fac-application-website) | [Deployed](https://joe-dev-public.github.io/fac-application-website/) |
 
+## Currently learning
+
+### JavaScript
+
+<!-- [<img src="https://www.executeprogram.com/svg/logo.svg#gh-dark-mode-only" width="128" alt="Execute Program">](https://www.executeprogram.com/) -->
+<!-- [<img src="https://www.executeprogram.com/svg/logo-inverted.svg#gh-light-mode-only" width="128" alt="Execute Program">](https://www.executeprogram.com/) -->
+
+**[Execute Program](https://www.executeprogram.com/)**:
+
+- JavaScript Arrays: 100%
+- Regular Expressions: 100%
+- Modern JavaScript: 100%
+- JavaScript Concurrency: 48%
+
 <!--
 **joe-dev-public/joe-dev-public** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
