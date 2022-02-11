@@ -35,7 +35,7 @@ I care about how technology can be used to have a positive social impact ⚖️,
 - JavaScript Arrays: 100%
 - Regular Expressions: 100%
 - Modern JavaScript: 100%
-- JavaScript Concurrency: 48%
+- JavaScript Concurrency: 59%
 
 <!--
 **joe-dev-public/joe-dev-public** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
