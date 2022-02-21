@@ -20,6 +20,7 @@ I care about how technology can be used to have a positive social impact ⚖️,
 
 | Project | Summary | Repo | Deployed |
 | :- | :- | :- | :- |
+| Random recipe | Team project to explore APIs, JS fetch and promises | [Repo](https://github.com/vasystus/hungri-la) | [Deployed](https://vasystus.github.io/hungri-la/) |
 | Agency site | First team project on the bootcamp | [Repo](https://github.com/joe-dev-public/fac-agency-website) | [Deployed](https://joe-dev-public.github.io/fac-agency-website/) |
 | Application site | Made as part of my application to FAC | [Repo](https://github.com/joe-dev-public/fac-application-website) | [Deployed](https://joe-dev-public.github.io/fac-application-website/) |
 
@@ -35,7 +36,7 @@ I care about how technology can be used to have a positive social impact ⚖️,
 - JavaScript Arrays: 100%
 - Regular Expressions: 100%
 - Modern JavaScript: 100%
-- JavaScript Concurrency: 68%
+- JavaScript Concurrency: 80%
 
 <!--
 **joe-dev-public/joe-dev-public** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
