@@ -26,18 +26,21 @@ I care about how technology can be used to have a positive social impact ⚖️,
 
 ## Currently learning
 
+via **[Execute Program](https://www.executeprogram.com/)**:
+
 ### JavaScript
 
 <!-- [<img src="https://www.executeprogram.com/svg/logo.svg#gh-dark-mode-only" width="128" alt="Execute Program">](https://www.executeprogram.com/) -->
 <!-- [<img src="https://www.executeprogram.com/svg/logo-inverted.svg#gh-light-mode-only" width="128" alt="Execute Program">](https://www.executeprogram.com/) -->
 
-**[Execute Program](https://www.executeprogram.com/)**:
+- [JavaScript Arrays](https://www.executeprogram.com/courses/javascript-array): 100%
+- [Regular Expressions](https://www.executeprogram.com/courses/regexes): 100%
+- [Modern JavaScript](https://www.executeprogram.com/courses/modern-javascript): 100%
+- [JavaScript Concurrency](https://www.executeprogram.com/courses/javascript-concurrency): 100%
 
-- JavaScript Arrays: 100%
-- Regular Expressions: 100%
-- Modern JavaScript: 100%
-- JavaScript Concurrency: 100%
-- SQL: 9%
+### SQL
+
+- [SQL](https://www.executeprogram.com/courses/sql): 9%
 
 <!--
 **joe-dev-public/joe-dev-public** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
