@@ -40,7 +40,7 @@ via **[Execute Program](https://www.executeprogram.com/)**:
 
 ### SQL
 
-- [SQL](https://www.executeprogram.com/courses/sql): 32%
+- [SQL](https://www.executeprogram.com/courses/sql): 43%
 
 <!--
 **joe-dev-public/joe-dev-public** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
