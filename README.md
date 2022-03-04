@@ -46,7 +46,7 @@ I care about how technology can be used to have a positive social impact ⚖️,
 
 #### [Front End Development Libraries](https://www.freecodecamp.org/learn/front-end-development-libraries/):
 
-- [ ] [React](https://www.freecodecamp.org/learn/front-end-development-libraries/#react): 9/47
+- [ ] [React](https://www.freecodecamp.org/learn/front-end-development-libraries/#react): 19/47
 
 #### [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/):
 
