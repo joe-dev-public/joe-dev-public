@@ -40,7 +40,7 @@ I care about how technology can be used to have a positive social impact ⚖️,
 
 #### SQL
 
-- [SQL](https://www.executeprogram.com/courses/sql): 84%
+- [SQL](https://www.executeprogram.com/courses/sql): 93%
 
 ### via **[freeCodeCamp](https://www.freecodecamp.org/joe-dev-public)**:
 
