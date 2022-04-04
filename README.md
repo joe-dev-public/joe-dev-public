@@ -30,7 +30,7 @@ I care about how technology can be used to have a positive social impact ⚖️,
 ### via **[Execute Program](https://www.executeprogram.com/)**:
 
 - **TypeScript**:
-  - [Basics](https://www.executeprogram.com/courses/typescript-basics): 93%
+  - [Basics](https://www.executeprogram.com/courses/typescript-basics): 99%
 
 - **JavaScript**:
   - [Arrays](https://www.executeprogram.com/courses/javascript-array): 100%
