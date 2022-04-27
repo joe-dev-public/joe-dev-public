@@ -4,9 +4,7 @@
 
 I really enjoy making things and solving problems, mostly on computers ⌨️ (but not always 📐🛠️🪚).
 
-I've done some web development 🌐🔗 in a commercial setting before, but not since 2012.
-
-To broaden and update my skills, I'm currently taking part in the [Founders and Coders](https://www.foundersandcoders.com/) part-time bootcamp, and plan to continue with the full-time course.
+From January to March 2022, I completed the [Founders and Coders](https://www.foundersandcoders.com/) part-time skills bootcamp. I'll be continuing on to their full-time course, which runs from May to July. 🙂
 
 Away from screens, I like walking and cycling 🏙️🌳, dancing in small dark loud rooms 🔊, cooking 🍅, and critter-spotting. 🐶🐱🐦🦊🐀
 
