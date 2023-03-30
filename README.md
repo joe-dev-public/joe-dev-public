@@ -1,20 +1,22 @@
-# Hi, I'm Joe 👋🏻 (he/him or they/them)
+# Hi, I'm Joe 👋🏻
+
+(he/him or they/them)
 
 ## About me
 
 I really enjoy making things and solving problems, mostly on computers ⌨️ (but not always 📐🛠️🪚).
 
-From January to March 2022, I completed the [Founders and Coders](https://www.foundersandcoders.com/) part-time skills bootcamp. I'll be continuing on to their full-time course, which runs from May to July. 🙂
+From January to March 2022, I completed the [Founders and Coders](https://www.foundersandcoders.com/) part-time skills bootcamp, and from May to July I completed their full-time training course.
+
+Since August 2022, I've been working at [Lyfta](https://www.lyfta.com/) as an apprentice software developer.
 
 Away from screens, I like walking and cycling 🏙️🌳, dancing in small dark loud rooms 🔊, cooking 🍅, and critter-spotting. 🐶🐱🐦🦊🐀
 
-I care about how technology can be used to have a positive social impact ⚖️, and I hope to work on projects that contribute to this.
+I care about how technology can be used to have a positive social impact ⚖️, and hope I can continue to work on projects that contribute to this.
 
-## Latest projects
+### Founders and Coders (FAC)
 
-<!-- Check back here to see projects that I've been working on 😌 -->
-
-### Founders and Coders
+Some projects I worked on during the course:
 
 | Project | Summary | Repo | Deployed |
 | :- | :- | :- | :- |
@@ -23,29 +25,36 @@ I care about how technology can be used to have a positive social impact ⚖️,
 | Agency site | First team project on the bootcamp | [Repo](https://github.com/joe-dev-public/fac-agency-website) | [Deployed](https://joe-dev-public.github.io/fac-agency-website/) |
 | Application site | Made as part of my application to FAC | [Repo](https://github.com/joe-dev-public/fac-application-website) | [Deployed](https://joe-dev-public.github.io/fac-application-website/) |
 
-## Currently learning
+<hr>
+
+## Learning
+
+As part of my apprenticeship, I'm always learning about many new topics, broadly including (but not limited to :)
+
+- React & Redux
+- CSS & CSS-in-JS approaches like styled-components
+- Ruby on Rails
+- git & GitHub
+- Three.js
+
+and more.
+
+Some online courses I've worked through in the past include:
 
 ### via **[Execute Program](https://www.executeprogram.com/)**:
 
 - **TypeScript**:
-  - [Basics](https://www.executeprogram.com/courses/typescript-basics): 100%
-  - [Everyday](https://www.executeprogram.com/courses/everyday-typescript): 32%
+  - [Basics](https://www.executeprogram.com/courses/typescript-basics)
 
 - **JavaScript**:
-  - [Arrays](https://www.executeprogram.com/courses/javascript-array): 100%
-  - [Regular Expressions](https://www.executeprogram.com/courses/regexes): 100%
-  - [Modern JavaScript](https://www.executeprogram.com/courses/modern-javascript): 100%
-  - [Concurrency](https://www.executeprogram.com/courses/javascript-concurrency): 100%
+  - [Arrays](https://www.executeprogram.com/courses/javascript-array)
+  - [Regular Expressions](https://www.executeprogram.com/courses/regexes)
+  - [Modern JavaScript](https://www.executeprogram.com/courses/modern-javascript)
+  - [Concurrency](https://www.executeprogram.com/courses/javascript-concurrency)
 
-- **[SQL](https://www.executeprogram.com/courses/sql)**: 100%
-
-<hr>
+- **[SQL](https://www.executeprogram.com/courses/sql)**
 
 ### via **[freeCodeCamp](https://www.freecodecamp.org/joe-dev-public)**:
-
-#### [Front End Development Libraries](https://www.freecodecamp.org/learn/front-end-development-libraries/):
-
-- [ ] [React](https://www.freecodecamp.org/learn/front-end-development-libraries/#react): 19/47
 
 <details><summary>JavaScript Algorithms and Data Structures</summary>
 
@@ -57,7 +66,6 @@ I care about how technology can be used to have a positive social impact ⚖️,
   - [x] [Basic Algorithm Scripting](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-algorithm-scripting): 16/16
   - [x] [Object Oriented Programming](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#object-oriented-programming): 26/26
   - [x] [Functional Programming](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#functional-programming): 24/24
-  - [ ] [Intermediate Algorithm Scripting](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#intermediate-algorithm-scripting): 14/21
 
   Course details: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/
 </details>
@@ -67,26 +75,9 @@ I care about how technology can be used to have a positive social impact ⚖️,
   - [x] [Basic HTML and HTML5](https://www.freecodecamp.org/learn/responsive-web-design/#basic-html-and-html5): 28/28
   - [x] [Basic CSS](https://www.freecodecamp.org/learn/responsive-web-design/#basic-css): 44/44
   - [x] [Applied Visual Design](https://www.freecodecamp.org/learn/responsive-web-design/#applied-visual-design): 52/52
-  - [ ] [Applied Accessibility](https://www.freecodecamp.org/learn/responsive-web-design/#applied-accessibility): 2/22
   - [x] [Responsive Web Design Principles](https://www.freecodecamp.org/learn/responsive-web-design/#responsive-web-design-principles): 4/4
   - [x] [CSS Flexbox](https://www.freecodecamp.org/learn/responsive-web-design/#css-flexbox): 17/17
   - [x] [CSS Grid](https://www.freecodecamp.org/learn/responsive-web-design/#css-grid): 22/22
   
   Course details: https://www.freecodecamp.org/learn/responsive-web-design/
 </details>
-  
-
-<!--
-**joe-dev-public/joe-dev-public** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
