@@ -8,9 +8,9 @@ I really enjoy making things and solving problems, mostly on computers ⌨️ (b
 
 From January to March 2022, I completed the [Founders and Coders](https://www.foundersandcoders.com/) part-time skills bootcamp, and from May to July I completed their full-time training course.
 
-Since August 2022, I've been working at [Lyfta](https://www.lyfta.com/) as an apprentice software developer.
+Since August 2022 I've been working at [Lyfta](https://www.lyfta.com/) -- first as an apprentice software developer, and now as a junior developer.
 
-Away from screens, I like walking and cycling 🏙️🌳, dancing in small dark loud rooms 🔊, cooking 🍅, and critter-spotting. 🐶🐱🐦🦊🐀
+Away from screens, I like walking 🏙️🌳, hiking ⛰️🌄, dancing (in smallish, loud rooms) 🎛️🔊, cooking 🍅🥦, and critter-spotting. 🐶🐱🐦🦊🐀
 
 I care about how technology can be used to have a positive social impact ⚖️, and hope I can continue to work on projects that contribute to this.
 
@@ -29,15 +29,18 @@ Some projects I worked on during the course:
 
 ## Learning
 
-As part of my apprenticeship, I'm always learning about many new topics, broadly including (but not limited to :)
+I'm regularly learning new things, which is one reason I like working with software! In the past 18 months that's included a focus on:
 
-- React & Redux
-- CSS & CSS-in-JS approaches like styled-components
-- Ruby on Rails
-- git & GitHub
-- Three.js
+- ☕ JavaScript, Node & SPAs
+- ⚛️ React, Redux & various associated packages
+- 💅🏾 CSS-in-JS approaches like styled-components
+- 💎 Ruby on Rails, Active Record & various associated gems
+- :octocat: git & GitHub
+- 📁 VS Code
+- 🌐 Three.js
+- ✏️ Figma
 
-and more.
+Prior to 2022 I already had a decent grounding in HTML, CSS, PostgreSQL, Linux & (Unix-like) shells/CLI, Perl, and more. It's been particularly enjoyable updating my CSS knowledge, which seems to have _really_ improved since 2012! ✨
 
 Some online courses I've worked through in the past include:
 
