@@ -8,24 +8,11 @@ I really enjoy making things and solving problems, mostly on computers ⌨️ (b
 
 From January to March 2022, I completed the [Founders and Coders](https://www.foundersandcoders.com/) part-time skills bootcamp, and from May to July I completed their full-time training course.
 
-Since August 2022 I've been working at [Lyfta](https://www.lyfta.com/) -- first as an apprentice software developer, and now as a junior developer.
+From August 2022 to December 2023 I worked at [Lyfta](https://www.lyfta.com/) -- first as an apprentice software developer, and then as a junior developer.
 
 Away from screens, I like walking 🏙️🌳, hiking ⛰️🌄, dancing (in smallish, loud rooms) 🎛️🔊, cooking 🍅🥦, and critter-spotting. 🐶🐱🐦🦊🐀
 
 I care about how technology can be used to have a positive social impact ⚖️, and hope I can continue to work on projects that contribute to this.
-
-### Founders and Coders (FAC)
-
-Some projects I worked on during the course:
-
-| Project | Summary | Repo | Deployed |
-| :- | :- | :- | :- |
-| To-do list | Team project to explore automated testing | [Repo](https://github.com/sonianb/to-do-list) | [Deployed](https://sonianb.github.io/fac-to-do-list/) |
-| Random recipe | Team project to explore APIs, JS fetch and promises | [Repo](https://github.com/vasystus/hungri-la) | [Deployed](https://vasystus.github.io/hungri-la/) |
-| Agency site | First team project on the bootcamp | [Repo](https://github.com/joe-dev-public/fac-agency-website) | [Deployed](https://joe-dev-public.github.io/fac-agency-website/) |
-| Application site | Made as part of my application to FAC | [Repo](https://github.com/joe-dev-public/fac-application-website) | [Deployed](https://joe-dev-public.github.io/fac-application-website/) |
-
-<hr>
 
 ## Learning
 
