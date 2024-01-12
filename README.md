@@ -1,9 +1,5 @@
 # Hi, I'm Joe 👋🏻
 
-(he/him or they/them)
-
-## About me
-
 I really enjoy making things and solving problems, mostly on computers ⌨️ (but not always 📐🛠️🪚).
 
 From January to March 2022, I completed the [Founders and Coders](https://www.foundersandcoders.com/) part-time skills bootcamp, and from May to July I completed their full-time training course.
