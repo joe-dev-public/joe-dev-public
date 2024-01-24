@@ -12,7 +12,16 @@ I care about how technology can be used to have a positive social impact ⚖️,
 
 ## Learning
 
-I'm regularly learning new things, which is one reason I like working with software! In the past 18 months that's included a focus on:
+I'm regularly learning new things, which is one reason I like working with software.
+
+Some online courses I'm currently working through include:
+
+- 🐍 [Python for Programmers](https://www.executeprogram.com/courses/python-for-programmers)
+- 🟦 [Everyday TypeScript](https://www.executeprogram.com/courses/everyday-typescript)
+
+(via [Execute Program](https://www.executeprogram.com/)).
+
+In the past 18 months I was focusing on:
 
 - ☕ JavaScript, Node & SPAs
 - ⚛️ React, Redux & various associated packages
@@ -24,6 +33,8 @@ I'm regularly learning new things, which is one reason I like working with softw
 - ✏️ Figma
 
 Prior to 2022 I already had a decent grounding in HTML, CSS, PostgreSQL, Linux & (Unix-like) shells/CLI, Perl, and more. It's been particularly enjoyable updating my CSS knowledge, which seems to have _really_ improved since 2012! ✨
+
+
 
 Some online courses I've worked through in the past include:
 
