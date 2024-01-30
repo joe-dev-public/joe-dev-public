@@ -16,7 +16,7 @@ I'm regularly learning new things, which is one reason I like working with softw
 
 Some online courses I'm currently working through include:
 
-- 🐍 [Python for Programmers](https://www.executeprogram.com/courses/python-for-programmers) (27%)
+- 🐍 [Python for Programmers](https://www.executeprogram.com/courses/python-for-programmers) (42%)
 - 🟦 [Everyday TypeScript](https://www.executeprogram.com/courses/everyday-typescript) (36%)
 
 (via [Execute Program](https://www.executeprogram.com/)).
