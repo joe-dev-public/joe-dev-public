@@ -16,10 +16,16 @@ I'm regularly learning new things, which is one reason I like working with softw
 
 Some online courses I'm currently working through include:
 
+### [Execute Program](https://www.executeprogram.com/)
+
 - 🐍 [Python for Programmers](https://www.executeprogram.com/courses/python-for-programmers) (42%)
 - 🟦 [Everyday TypeScript](https://www.executeprogram.com/courses/everyday-typescript) (36%)
 
-(via [Execute Program](https://www.executeprogram.com/)).
+### [Kaggle](https://www.kaggle.com/learn)
+
+- ✔️ Intro to Machine Learning
+- ✔️ Pandas
+- ⏳ Intermediate Machine Learning (36%)
 
 In the past 18 months I was focusing on:
 
@@ -38,7 +44,7 @@ Prior to 2022 I already had a decent grounding in HTML, CSS, PostgreSQL, Linux &
 
 Some online courses I've worked through in the past include:
 
-### via **[Execute Program](https://www.executeprogram.com/)**:
+### [Execute Program](https://www.executeprogram.com/):
 
 - **TypeScript**:
   - [Basics](https://www.executeprogram.com/courses/typescript-basics)
@@ -51,7 +57,7 @@ Some online courses I've worked through in the past include:
 
 - **[SQL](https://www.executeprogram.com/courses/sql)**
 
-### via **[freeCodeCamp](https://www.freecodecamp.org/joe-dev-public)**:
+### [freeCodeCamp](https://www.freecodecamp.org/joe-dev-public):
 
 <details><summary>JavaScript Algorithms and Data Structures</summary>
 
