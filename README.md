@@ -25,7 +25,7 @@ Some online courses I'm currently working through include:
 
 - ✔️ Intro to Machine Learning
 - ✔️ Pandas
-- ⏳ Intermediate Machine Learning (36%)
+- ⏳ Intermediate Machine Learning (50%)
 
 In the past 18 months I was focusing on:
 
