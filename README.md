@@ -18,7 +18,7 @@ Some online courses I'm currently working through include:
 
 ### [Execute Program](https://www.executeprogram.com/)
 
-- 🐍 [Python for Programmers](https://www.executeprogram.com/courses/python-for-programmers) (71%)
+- 🐍 [Python for Programmers](https://www.executeprogram.com/courses/python-for-programmers) (78%)
 - 🟦 [Everyday TypeScript](https://www.executeprogram.com/courses/everyday-typescript) (36%)
 
 ### [Kaggle](https://www.kaggle.com/learn)
