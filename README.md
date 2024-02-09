@@ -18,7 +18,7 @@ Some online courses I'm currently working through include:
 
 ### [Execute Program](https://www.executeprogram.com/)
 
-- 🐍 [Python for Programmers](https://www.executeprogram.com/courses/python-for-programmers) (78%)
+- 🐍 [Python for Programmers](https://www.executeprogram.com/courses/python-for-programmers) (85%)
 - 🟦 [Everyday TypeScript](https://www.executeprogram.com/courses/everyday-typescript) (36%)
 
 ### [Kaggle](https://www.kaggle.com/learn)
@@ -26,7 +26,7 @@ Some online courses I'm currently working through include:
 - ✔️ Intro to Machine Learning
 - ✔️ Pandas
 - ✔️ Intermediate Machine Learning
-- ⏳ Intro to Deep Learning (42%)
+- ⏳ Intro to Deep Learning (58%)
 
 In the past 18 months I was focusing on:
 
