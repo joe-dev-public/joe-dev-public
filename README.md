@@ -14,12 +14,11 @@ I care about how technology can be used to have a positive social impact ⚖️,
 
 I'm regularly learning new things, which is one reason I like working with software.
 
-Some online courses I'm currently working through include:
+Some online courses I've recently completed include:
 
 ### [Execute Program](https://www.executeprogram.com/)
 
-- 🐍 [Python for Programmers](https://www.executeprogram.com/courses/python-for-programmers) (94%)
-- 🟦 [Everyday TypeScript](https://www.executeprogram.com/courses/everyday-typescript) (36%)
+- 🐍 [Python for Programmers](https://www.executeprogram.com/courses/python-for-programmers) (100%)
 
 ### [Kaggle](https://www.kaggle.com/learn)
 
